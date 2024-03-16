@@ -1,0 +1,73 @@
+[
+   {
+      "id":1,
+      "name":"ABC",
+      "exercises":2,
+      "min":10,
+      "ex1":"Jumping Jack",
+      "ex2":"Russian Twist",
+      "ex_min":5,
+      "img":"https://hips.hearstapps.com/hmg-prod/images/bodybuilders-abdominal-muscles-royalty-free-image-1037167856-1555704196.jpg?crop=0.88847xw:1xh;center,top&resize=1200:*",
+      "img1":"https://www.researchgate.net/profile/Mohammed-Abou-Elmagd/publication/341734848/figure/fig1/AS:896516470362114@1590757591713/Sample-of-Jumping-Jacks-Exercise-4.png",
+      "img2":"https://miro.medium.com/v2/resize:fit:828/format:webp/1*jjuUaxtnLvFlc94NIY8oog.png",
+      "ex1_time_to_do":12,
+      "ex2_time_to_do":20
+   },
+   {
+      "id":2,
+      "name":"CHEST",
+      "exercises":2,
+      "min":8,
+      "ex1":"Push-UPS",
+      "ex2":"Cobra Stretch",
+      "ex_min":4,
+      "img":"https://image.boxrox.com/2021/12/Upper-Body-Chest-Muscles.png",
+      "img1":"https://www.fitnesseducation.edu.au/wp-content/uploads/2017/03/Pushups.jpg",
+      "img2":"https://cdn.yogajournal.com/wp-content/uploads/2022/06/Upward-Facing-Dog-Mod-1_Andrew-Clark-e1670972827524.jpg",
+      "ex1_time_to_do":18,
+      "ex2_time_to_do":12
+   },
+   {
+      "id":3,
+      "name":"ARM",
+      "exercises":2,
+      "min":10,
+      "ex1":"Arm Raises",
+      "ex2":"Chest Press Pulse",
+      "ex_min":5,
+      "img":"https://parade.com/.image/t_share/MTkxNjgzMTQ3NTY0MzI4NjEx/arm-toning-workouts-weights.jpg",
+      "img1":"https://kinxlearning.com/cdn/shop/files/exercise-32_1000x.jpg?v=1613157925",
+      "img2":"https://i.pinimg.com/736x/28/00/32/2800320389ce7a06646e2742ab882768.jpg",
+      "ex1_time_to_do":15,
+      "ex2_time_to_do":15
+   },
+   {
+      "id":4,
+      "name":"Leg",
+      "exercises":2,
+      "min":8,
+      "ex1":"Side Hop",
+      "ex2":"Squats",
+      "ex_min":4,
+      "img":"https://qph.cf2.quoracdn.net/main-qimg-15b227ccbeab9b7187ca7ad6c5620206-lq",
+      "img1":"https://www.spotebi.com/wp-content/uploads/2015/05/side-plank-hip-lifts-exercise-illustration.jpg",
+      "img2":"https://www.shape.com/thmb/DXIpNFBdZgv8jS7Oa8BY7gme50Y=/1500x0/filters:no_upscale():max_bytes(200000):strip_icc()/basic-squat-e59af9e291834334928a67daa01ded58.png",
+      "ex1_time_to_do":10,
+      "ex2_time_to_do":20
+   },
+   {
+      "id":5,
+      "name":"Shoulder",
+      "exercises":2,
+      "min":10,
+      "ex1":"Rhomboid Pulls",
+      "ex2":"Arm Scissors",
+      "ex_min":4,
+      "img":"https://thefitnessmaverick.com/wp-content/uploads/2020/10/shoulders-1.jpg",
+      "img1":"https://i0.wp.com/rootsaustin.com/wp-content/uploads/2018/06/band-separator.jpg?resize=700%2C390&ssl=1",
+      "img2":"https://cdn.shopify.com/s/files/1/1585/6091/files/arm_scissors_copia.jpg?v=1586406224",
+      "ex1_time_to_do":20,
+      "ex2_time_to_do":20
+   }
+
+]
